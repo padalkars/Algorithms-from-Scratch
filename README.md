@@ -1,2 +1,2 @@
 # Algorithms-from-Scratch
-This repository contains various algorithms implemented from scratch.
+This repository contains various Machine Learning algorithms implemented from scratch.
